@@ -1,0 +1,2 @@
+#Test1
+Note: The option to pick a Joke by ID does not work and will result in an unhandled exception. The error occurs in the HomeController line 63. Other features are missing such as filtering by category.
