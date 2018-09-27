@@ -1,0 +1,26 @@
+ @model IEnumerable<JokeValue>
+
+@if(Model != null){
+    @foreach(JokeValue joke in Model){
+        <div class="card bg-info text-white card-outline-primary m-1 p-1">
+            <div class="card-body">
+                <h4 class="card-title">Joke id: @joke.ID</h4>
+                <p class="card-text">@joke.Joke</p>
+                <div>
+                    <h6>Categories</h6>
+                    @if(joke.Categories != null){
+                        @foreach(string cat in joke.Categories){
+                            <span class="btn btn-secondary">@cat</span>
+                        } 
+                    } else {
+                        <span>No Categories</span>
+                    }
+
+                </div>
+            </div>
+        </div>
+    }
+
+} else {
+    <p>Chuck Norris took all of the jokes, we're not asking for them back!</p>
+}

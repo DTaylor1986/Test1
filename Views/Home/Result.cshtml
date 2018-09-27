@@ -1,0 +1,20 @@
+@model JokeValue
+
+<h1>Joke Page</h1>
+
+<div>
+    <h4>Joke</h4>
+    <p>Joke id: @Model.ID</p>
+    <p>@Model.Joke</p>
+    <div>
+        <h4>Categories</h4>
+        @if(Model.Categories == null){
+            @foreach(string cat in Model.Categories){
+                <span>@cat</span>
+            }            
+        } else {
+            <span>No Categories</span>
+        }
+
+    </div>
+</div>

@@ -1,0 +1,11 @@
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/bin/Debug/netcoreapp2.0/Test1.deps.json
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/bin/Debug/netcoreapp2.0/Test1.runtimeconfig.json
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/bin/Debug/netcoreapp2.0/Test1.runtimeconfig.dev.json
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/bin/Debug/netcoreapp2.0/Test1.dll
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/bin/Debug/netcoreapp2.0/Test1.pdb
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/obj/Debug/netcoreapp2.0/Test1.csprojAssemblyReference.cache
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/obj/Debug/netcoreapp2.0/Test1.csproj.CoreCompileInputs.cache
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/obj/Debug/netcoreapp2.0/Test1.AssemblyInfoInputs.cache
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/obj/Debug/netcoreapp2.0/Test1.AssemblyInfo.cs
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/obj/Debug/netcoreapp2.0/Test1.dll
+/home/dtaylor/Projects/Core/CodeBase8/Test1/Test1/obj/Debug/netcoreapp2.0/Test1.pdb
